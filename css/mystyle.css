@@ -1,0 +1,27 @@
+.glyphicon {
+    font-size: 20px;
+}
+a{
+	color:black;
+	
+}
+a:hover {
+	color: black;
+	text-decoration: none;
+ }
+option{
+	
+	background-color:black;
+
+}
+.selectpicker{
+	border:none;
+
+}
+#col{
+	color:white;
+	text-decoration:none:
+}
+#col:focus{
+	box-shadow:black;
+}
